@@ -1,0 +1,11 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - COMM_SPEC.md
+  - GETTING_STARTED.md
+  - README.md
+  - SPEC.md
+  - SPECTATOR_PROTOCOL.md
